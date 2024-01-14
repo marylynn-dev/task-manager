@@ -79,3 +79,5 @@ SweetAlert2
 ## Contributing
 
 Contributions are welcome!
+
+For the hosted version, you can check it out at [Easy Tasks](https://gleaming-alpaca-a19b11.netlify.app/.)
