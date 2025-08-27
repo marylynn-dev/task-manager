@@ -1,4 +1,4 @@
-# task-manager
+ # task-manager
 
 Easy Tasks is a user-friendly task management application built with Vue.js and Vuetify. Simplify your daily routine by effortlessly adding, organizing, and tracking tasks. The application offers a clean and intuitive interface, allowing users to focus on what matters most.
 
